@@ -1,0 +1,7 @@
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojResolveAssemblyReference.cache
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Drive\Aspect\Technical Disccussion\DevOps\Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
